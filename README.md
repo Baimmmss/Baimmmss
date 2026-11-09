@@ -1,4 +1,6 @@
 ### Hi there 👋
+EL Pecut AI
+
 
 I'm **Baim**, a developer who likes building small, fast tools. Right now that's [MiniWin](https://github.com/Baimmmss/MiniWin), an Android app written in Java that opens apps and websites in small floating windows over other apps.
 
