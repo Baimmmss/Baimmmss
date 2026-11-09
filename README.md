@@ -5,4 +5,4 @@ I'm **Baim**, a developer who likes building small, fast tools. Right now that's
 On the web side I build sites with Astro, React and Tailwind. You can see some of that on my [portfolio](https://baims-portos.vercel.app/).
 
 
-<img src="https://skillicons.dev/icons?i=ts,react,astro,tailwind,swift,rust,java&theme=dark" height="32" alt="TypeScript, React, Astro, Tailwind, Swift, Rust, Java" />
+<img src="https://skillicons.dev/icons?i=ts,react,swift,rust,java&theme=dark" height="32" alt="TypeScript, React, Swift, Rust, Java" />
